@@ -80,7 +80,7 @@
 
 .poke__form{
     display: flex;
-    max-width: 700px;
+    max-width: 745px;
     width: 100%;
 }
 
@@ -109,7 +109,7 @@
     text-transform: capitalize;
 }
 
-@media (max-width: 520px){
+@media (max-width: 540px){
     .poke__search{
         flex-wrap: wrap;
     }
